@@ -46,5 +46,5 @@ Mi stack principal: **SQL (SQL Server)**, **Python** (Pandas, NumPy, scikit-lear
 ## 📬 Contacto
 
 Puedes encontrarme en:  
-- **LinkedIn:** _[tu-enlace-a-LinkedIn]_  
+- **LinkedIn:** https://www.linkedin.com/in/bruno-nicolas-huerres  
 - **Email:** **brunohuerres99@gmail.com**
